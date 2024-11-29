@@ -1,0 +1,11 @@
+#homeCompany,
+#bg-offer {
+    color: white;
+    height: auto;
+    width: auto;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)),
+        url("assets/images/home.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
